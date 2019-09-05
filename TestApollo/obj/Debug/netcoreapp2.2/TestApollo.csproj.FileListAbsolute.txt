@@ -1,0 +1,13 @@
+F:\TestDemo\TestApollo\TestApollo\bin\Debug\netcoreapp2.2\TestApollo.deps.json
+F:\TestDemo\TestApollo\TestApollo\bin\Debug\netcoreapp2.2\TestApollo.runtimeconfig.json
+F:\TestDemo\TestApollo\TestApollo\bin\Debug\netcoreapp2.2\TestApollo.runtimeconfig.dev.json
+F:\TestDemo\TestApollo\TestApollo\bin\Debug\netcoreapp2.2\TestApollo.dll
+F:\TestDemo\TestApollo\TestApollo\obj\Debug\netcoreapp2.2\TestApollo.csproj.CoreCompileInputs.cache
+F:\TestDemo\TestApollo\TestApollo\obj\Debug\netcoreapp2.2\TestApollo.RazorAssemblyInfo.cache
+F:\TestDemo\TestApollo\TestApollo\obj\Debug\netcoreapp2.2\TestApollo.RazorAssemblyInfo.cs
+F:\TestDemo\TestApollo\TestApollo\obj\Debug\netcoreapp2.2\TestApollo.AssemblyInfoInputs.cache
+F:\TestDemo\TestApollo\TestApollo\obj\Debug\netcoreapp2.2\TestApollo.AssemblyInfo.cs
+F:\TestDemo\TestApollo\TestApollo\obj\Debug\netcoreapp2.2\TestApollo.RazorTargetAssemblyInfo.cache
+F:\TestDemo\TestApollo\TestApollo\bin\Debug\netcoreapp2.2\TestApollo.pdb
+F:\TestDemo\TestApollo\TestApollo\obj\Debug\netcoreapp2.2\TestApollo.dll
+F:\TestDemo\TestApollo\TestApollo\obj\Debug\netcoreapp2.2\TestApollo.pdb
